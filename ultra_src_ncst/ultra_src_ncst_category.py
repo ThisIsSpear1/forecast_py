@@ -1,6 +1,6 @@
 # 초단기 실황 조회
-import forecast.snow_condition as snow_condition
-import forecast.wind_component as wind_component
+import snow_condition as snow_condition
+import wind_component as wind_component
 
 class SrcNcst:
 
